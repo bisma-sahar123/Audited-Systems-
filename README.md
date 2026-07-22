@@ -45,9 +45,7 @@ To review the project:
 - Assess risks based on security findings.
 - Recommend best practices to improve system security.
 
-##  Bisma Sahar 
+##  Author 
 Cybersecurity intern 
 DecodeLabs 
-**Bisma Sahar**  
-BS Information Technology  
-Bahria University Islamabad
+
